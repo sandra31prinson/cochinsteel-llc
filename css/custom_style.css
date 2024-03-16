@@ -85,6 +85,9 @@
   padding:0px;
 }
 
+.breadcrumb-item a{
+  color: #cc0001;
+}
 
 /* <**************************************banner in common pages end************************> */
 
