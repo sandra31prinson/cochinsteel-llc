@@ -87,12 +87,12 @@ select::-ms-expand {
  	display: none;
 }
 input[type="text"], input[type="email"], input[type="password"], input[type="file"], input[type="date"], textarea, select {
-	outline: none !important;
-	box-shadow: none !important;
+	outline: none;
+	box-shadow: none ;
 	font-size: 14px !important;
-	background-color: transparent !important;
+	background-color: transparent;
 	color: #333;
-	border: 1px solid #e5e5e5 !important;
+	border: 1px solid #e5e5e5 ;
 }
 .form-control:focus, .form-select:focus {
     border-color: #cc0001;
