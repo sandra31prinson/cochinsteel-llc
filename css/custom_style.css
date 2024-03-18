@@ -225,7 +225,7 @@ input[type="text"], input[type="email"], input[type="password"], input[type="fil
   transition: 0.5s;
   
   font-size: 16px;
-  padding:5px ;
+  padding:0px ;
   text-align: center;
   transition: all 0.5s linear;
 }
@@ -239,13 +239,24 @@ input[type="text"], input[type="email"], input[type="password"], input[type="fil
 
 .links-use li:hover {
   background-color: #cc0001;
-  color: #fff;
+  color: #fff !important;
   padding-left: 15px;
   transition: all 0.5s linear;
   width: 100%;
   
 }
 
+
+
+.single-tech-news h3:hover a {
+  color: #fff;
+}
+.single-tech-news h3:hover {
+  background-color: #003f5e;
+  color: #fff;
+  padding-left: 5px;
+  transition: all 0.5s linear;
+}
 
 
 
