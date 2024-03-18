@@ -169,3 +169,88 @@ input[type="text"], input[type="email"], input[type="password"], input[type="fil
   font-size: 14px;
   color: #0f0f0f;
 }
+
+/* <**************************************CONTACT US END************************> */ 
+
+
+/* <**************************************PRODUCTS************************> */ 
+
+/* .table1{
+  border: solid 2px #cc0001;
+
+}
+.table>thead 
+{
+  vertical-align: bottom;
+  background: #cc0001;
+  color: white;
+  text-align: center;
+} */
+
+.links-use{
+  border-radius: 1.25rem;
+  /* border: solid 2px #cc0001 ; */
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+  padding: 10px;
+  border: 1px solid #eeeeee;
+  background-color: #fff;
+  margin-bottom: 20px;
+  
+}
+
+
+
+.links-use li{
+
+  list-style-type: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+
+
+
+.links-use h3{
+  padding: 5px;
+  background: #cc0001;
+  color: #ffff;
+}
+
+
+.links-use li a {
+  /* background: #003f5e; */
+  color: #000000;
+  font-weight: 500;
+  transition: 0.5s;
+  
+  font-size: 16px;
+  padding:5px ;
+  text-align: center;
+  transition: all 0.5s linear;
+}
+.links-use li a:hover {
+  /* background-color: #003f5e; */
+  color: #fff;
+  padding-left: 15px;
+  transition: all 0.5s linear;
+  
+}
+
+.links-use li:hover {
+  background-color: #cc0001;
+  color: #fff;
+  padding-left: 15px;
+  transition: all 0.5s linear;
+  width: 100%;
+  
+}
+
+
+
+
+
+
+
+
+
