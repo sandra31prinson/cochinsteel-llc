@@ -173,19 +173,8 @@ input[type="text"], input[type="email"], input[type="password"], input[type="fil
 /* <**************************************CONTACT US END************************> */ 
 
 
-/* <**************************************PRODUCTS************************> */ 
+/* <**************************************PRODUCTS catagory************************> */ 
 
-/* .table1{
-  border: solid 2px #cc0001;
-
-}
-.table>thead 
-{
-  vertical-align: bottom;
-  background: #cc0001;
-  color: white;
-  text-align: center;
-} */
 
 .links-use{
   border-radius: 1.25rem;
@@ -208,10 +197,7 @@ input[type="text"], input[type="email"], input[type="password"], input[type="fil
 }
 
 
-
-
-
-.links-use h3{
+.links-use h4{
   padding: 5px;
   background: #cc0001;
   color: #ffff;
@@ -259,8 +245,19 @@ input[type="text"], input[type="email"], input[type="password"], input[type="fil
 }
 
 
+/* <**************************************PRODUCTS catagory************************> */ 
 
-
+.products_title1 {
+	width: 100%;
+	float: left;
+	/* font-family: 'Playfair Display', serif; */
+  	position: relative;
+  	font-size: 16px;
+    font-weight: 700;
+	text-align: center;
+	color: #333;
+	letter-spacing: .5px;
+}
 
 
 
