@@ -266,4 +266,24 @@ input[type="text"], input[type="email"], input[type="password"], input[type="fil
     font-family: "Open Sans", sans-serif;
   }
 
+  /* <**************************************FAQ************************> */ 
+
+
+
+
+.accordion-button:not(.collapsed) {
+    color:#ffffff !important;
+    background-color:#cc0001 !important;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    border: none !important;
+}
+
+.accordion-item{
+  margin: 15px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    border-radius: 10px 10px 10px 10px !important;
+    border: none !important;
+}
+
+
 
