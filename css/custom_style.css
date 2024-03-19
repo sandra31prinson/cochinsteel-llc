@@ -259,6 +259,11 @@ input[type="text"], input[type="email"], input[type="password"], input[type="fil
 	letter-spacing: .5px;
 }
 
-
+/* <**************************************PRIVACY POLICY************************> */ 
+  .privacy p{
+    color: #000000;
+    font-size: 15px;
+    font-family: "Open Sans", sans-serif;
+  }
 
 
