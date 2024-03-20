@@ -3,20 +3,24 @@
 .top .nav-link {
   font-weight: 800;
   color: #cc0001 !important;
+  margin: 5px;
   
 }
 
 .top .nav-link:hover {
 
-  color: #020202 !important;
+  color: #ffffff !important;
   font-weight: 800;
+  background-color: #cc0001;
 }
 
 
 
+
 .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
-  color: rgba(0, 0, 0, 0.9) !important;
+  color: rgba(255, 255, 255, 0.9) !important;
   font-weight: 800;
+  background-color: #cc0001;
 }
 
 
@@ -292,4 +296,43 @@ input[type="text"], input[type="email"], input[type="password"], input[type="fil
 /* only on sm to large devices */
 @media (min-width: 768px) {
   .swiper-slide {min-width:350px}
+}
+
+/* <**************************************SITE MAP************************> */ 
+
+
+.sitemap h3{
+  color: #cc0001;
+}
+.sitemap:hover{
+  color: #cc0001;
+}
+
+.sitemap .box1{
+  border: #ffffff 1px solid;
+  /* border: #948f8f 1px solid; */
+  margin: 15px;
+  padding: 10px;
+  box-shadow:0 .5rem 1rem rgba(0,0,0,.15)!important;
+  
+}
+
+.sitemap .box1:hover{
+
+  border: #cc0001 1px solid;
+  margin: 15px;
+  padding: 10px;
+  box-shadow:none;
+  
+  color:#cc0001;
+  
+}
+
+.sitemap a{
+  color:#000000;
+}
+
+
+.sitemap .box1 a:hover{
+  color:#cc0001;
 }
