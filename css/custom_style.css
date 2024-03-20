@@ -297,6 +297,11 @@ input[type="text"], input[type="email"], input[type="password"], input[type="fil
 
 .sitemap h3{
   color: #cc0001;
+  font-family: 'Playfair Display', serif;
+}
+
+.sitemap .box1 h6{
+  text-transform: capitalize;
 }
 .sitemap:hover{
   color: #cc0001;
@@ -308,6 +313,7 @@ input[type="text"], input[type="email"], input[type="password"], input[type="fil
   margin: 15px;
   padding: 10px;
   box-shadow:0 .5rem 1rem rgba(0,0,0,.15)!important;
+  text-transform: capitalize;
   
 }
 
