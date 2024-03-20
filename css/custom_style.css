@@ -208,16 +208,10 @@ input[type="text"], input[type="email"], input[type="password"], input[type="fil
 }
 
 
-.links-use li a {
+.links-use  a {
   /* background: #003f5e; */
   color: #000000;
-  font-weight: 500;
-  transition: 0.5s;
   
-  font-size: 16px;
-  padding:0px ;
-  text-align: center;
-  transition: all 0.5s linear;
 }
 .links-use li a:hover {
   /* background-color: #003f5e; */
