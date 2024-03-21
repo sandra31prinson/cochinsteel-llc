@@ -69,6 +69,17 @@
 
 /* <**************************************top nav end************************> */
 
+/* <**************************************Testimonial************************> */
+
+.testimonial h1{
+  width: 100%;
+  float: left;
+  font-family: 'Playfair Display', serif;
+  margin: 0 0 20px 0;
+  line-height: 40px;
+  font-weight: 700;
+  color: #cc0001;
+}
 
 /* <**************************************banner in common pages************************> */
 
@@ -263,6 +274,15 @@ input[type="text"], input[type="email"], input[type="password"], input[type="fil
     font-size: 15px;
     font-family: "Open Sans", sans-serif;
   }
+  .privacy h1{
+    width: 100%;
+    float: left;
+    font-family: 'Playfair Display', serif;
+    margin: 0 0 20px 0;
+    line-height: 40px;
+    font-weight: 700;
+    color: #cc0001;
+  }
 
   /* <**************************************FAQ************************> */ 
 
@@ -295,7 +315,7 @@ input[type="text"], input[type="email"], input[type="password"], input[type="fil
 /* <**************************************SITE MAP************************> */ 
 
 
-.sitemap h3{
+.sitemap h1{
   color: #cc0001;
   font-family: 'Playfair Display', serif;
 }
@@ -335,4 +355,27 @@ input[type="text"], input[type="email"], input[type="password"], input[type="fil
 
 .sitemap .box1 a:hover{
   color:#cc0001;
+}
+
+
+
+
+.legal h1{
+  width: 100%;
+  float: left;
+  font-family: 'Playfair Display', serif;
+  margin: 0 0 20px 0;
+  line-height: 40px;
+  font-weight: 700;
+  color: #cc0001;
+}
+
+.faq h1{
+  width: 100%;
+  float: left;
+  font-family: 'Playfair Display', serif;
+  margin: 0 0 20px 0;
+  line-height: 40px;
+  font-weight: 700;
+  color: #cc0001;
 }
